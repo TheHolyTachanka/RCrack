@@ -22,10 +22,10 @@
 
 Clone the repository and use cargo to generate a release build.
 ```sh
-$ git clone https://github.com/TheHolyTachanka/RCrack
-$ cd RCrack/
-$ cargo build --release
-$ mv target/release/rcrack
+# git clone https://github.com/TheHolyTachanka/RCrack
+# cd RCrack/
+# cargo build --release
+# mv target/release/rcrack
 ```
 
 ## Usage
